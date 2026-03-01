@@ -1,0 +1,9 @@
+Q1. Do machines really learn?
+• A machine can be considered to learn if it is able to gather
+experience by doing a certain task and improve its
+performance in doing the similar tasks in the future
+• When we talk about past experience, it means past data
+related to the task. This data is an input to the machine
+from some source.
+• Formalize the definition of Machine Learning will itself
+address the question

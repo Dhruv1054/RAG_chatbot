@@ -1,0 +1,15 @@
+• Problem set up:
+• Suppose there are two input variables X1, X2 and one
+output variable Y
+• Further, suppose
+)
+X1 ∈{A, B}(two possible values ,
+)
+X2 ∈{D, E, F}(three possible values and Y is an binary
+output variable ∈{0, 1}
+• The task is to learn hypothesis h that maps X1, X2 to Y.
+• The input space X consists of all possible combinations of
+values X1, X2 , i.e. it has 6 pairs of values
+• X=
+A, D, A, E, A, F, B, D, B, E, B, F
+Computing the Number of Hypothesis : Example

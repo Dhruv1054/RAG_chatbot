@@ -1,0 +1,457 @@
+[
+  {
+    "chunk_id": 0,
+    "text": "1B.Tech\nB.Tech(Information Technology) (Information Technology)BITE 410L\nBITE 410L \u2013\u2013Machine Learning Machine Learning\nModule -1 Introduction\nDr.T.Ramkumar\nProfessor\nSCORE\nramkumar.thirunavukarasu@vit.ac.in",
+    "char_start": 0,
+    "char_end": 206,
+    "word_count": 19
+  },
+  {
+    "chunk_id": 1,
+    "text": "What is Learning ? - From a Human Perspective\n\uf0a7Learning - It is the ability to improve one\u2019s behaviour with\nexperience\n\uf0a7With more learning, task can be performed more efficiently\n\uf0a7Human Learning happens in the following ways :\n\uf0a7Either somebody who is an expert in the subject directly\nteaches us\n\uf0a7We build our own notion indirectly based on what we\nhave learnt from the expert in the past\n\uf0a7We do it ourselves, may be after multiple attempts, some\nbeing unsucessful\n\nWhat is Learning ?",
+    "char_start": 384,
+    "char_end": 868,
+    "word_count": 84
+  },
+  {
+    "chunk_id": 2,
+    "text": "What is Learning ?\n\n\uf0a7\u201cLearning denotes changes in a system that ... enable a\nsystem to do the same task ... more efficiently the next\ntime.\u201d - Herbert Simon\n\uf0a7\u201cLearning is constructing or modifying representations of\nwhat is being experienced.\u201d - Ryszard Michalski\n\uf0a7\u201cLearning is making useful changes in our minds.\u201d -\nMarvin Minsky",
+    "char_start": 768,
+    "char_end": 1098,
+    "word_count": 54
+  },
+  {
+    "chunk_id": 3,
+    "text": "What is Machine Learning ?\n\u2022 Before\nanswering\nquestion\n\u2018What\nis\nmachine\nlearning?\u2019 more fundamental questions that peep into\none\u2019s mind are :\nQ1 :\nDo machines really learn?\nQ2 :\nIf so, how do they learn?\nQ3 :\nWhich problem can we consider as a well-posed learning\nproblem? What are the important components that are\nrequired to well-define a learning problem ?",
+    "char_start": 1152,
+    "char_end": 1512,
+    "word_count": 63
+  },
+  {
+    "chunk_id": 4,
+    "text": "Q1. Do machines really learn?\n\u2022 A machine can be considered to learn if it is able to gather\nexperience by doing a certain task and improve its\nperformance in doing the similar tasks in the future\n\u2022 When we talk about past experience, it means past data\nrelated to the task. This data is an input to the machine\nfrom some source.\n\u2022 Formalize the definition of Machine Learning will itself\naddress the question",
+    "char_start": 1536,
+    "char_end": 1945,
+    "word_count": 75
+  },
+  {
+    "chunk_id": 5,
+    "text": "Q2.How do machines learn?\n\u2022 The basic machine learning process can be divided into\nthree parts.\nData input : Past data or information is utilized as a\nbasis for future decision-making\nAbstraction : The input data is represented in a\nsummarized way\nGeneralization : The abstracted representation is\ngeneralized\nto\nform\nframework\nfor\nmaking\ndecisions\n\nQ2.How do machines learn?",
+    "char_start": 1920,
+    "char_end": 2295,
+    "word_count": 59
+  },
+  {
+    "chunk_id": 6,
+    "text": "Q3. Which problems are of Well-Posed Learning\nnature ?\n\u2022 Checkers Learning Problem\n\u2022 Task \u2018T\u2019 \u2013 Playing Checkers\n\u2022 Performance measure \u2018P\u2019 - Percent of games won against opponents\n\u2022 Training experience \u2018E\u2019 - Playing practice games against itself\n\u2022 Handwriting recognition learning problem\n\u2022 Task \u2018T\u2019 \u2013 Recognizing and classifying hand-written words within images\n\u2022 Performance measure \u2018P\u2019 : Percentage of words correctly classified\n\u2022 Training experience \u2018E\u2019:\nA database of handwritten words with given",
+    "char_start": 2675,
+    "char_end": 3176,
+    "word_count": 77
+  },
+  {
+    "chunk_id": 7,
+    "text": "\u2022 Training experience \u2018E\u2019:\nA database of handwritten words with given\nclassifications",
+    "char_start": 3059,
+    "char_end": 3144,
+    "word_count": 12
+  },
+  {
+    "chunk_id": 8,
+    "text": "Q3. Which problems are of Well-Posed Learning\nnature ?\n\u2022 Robot Driving Learning Problem\nTask \u2018T\u2019 \u2013 Driving on public four-lane highways using vision\nsensors\nPerformance measure \u2018P\u2019: average distance traveled before an\nerror (as judged by human overseer)\nTraining experience \u2018E\u2019: a sequence of images and steering\ncommands recorded while observing a human drive\n\nWhy \u201cMachine Learning?\u201d",
+    "char_start": 3443,
+    "char_end": 3828,
+    "word_count": 58
+  },
+  {
+    "chunk_id": 9,
+    "text": "Why \u201cMachine Learning?\u201d\n\n\u2022 There is no need to \u201clearn\u201d to calculate payroll\n\u2022 Learning is used when:\n\uf0d2Human expertise does not exist (navigating on Mars),\n\uf0d2Humans are unable to explain their expertise (speech recognition)\n\uf0d2Solution changes in time (routing on a computer network)\n\uf0d2Solution needs to be adapted to particular cases (user biometrics)",
+    "char_start": 3827,
+    "char_end": 4174,
+    "word_count": 54
+  },
+  {
+    "chunk_id": 10,
+    "text": "How Machine Learning Solution differs from\nProgrammatic Solution ?\nConventional Programming : After understanding the problem, detailed\ndesign of the program such as a flow chart or algorithm can be created\nand converted into program using suitable programming languages\nThis approach could be difficult for many real-world problems such as\npuzzles , games, complex image recognition applications\nInitially, expert systems have been developed by forming if-then-rules by",
+    "char_start": 4211,
+    "char_end": 4681,
+    "word_count": 67
+  },
+  {
+    "chunk_id": 11,
+    "text": "Initially, expert systems have been developed by forming if-then-rules by\nthe expert knowledge for solving complex problems (Eg. Intelligent\nMedical Diagnosis system : MYCIN)",
+    "char_start": 4595,
+    "char_end": 4769,
+    "word_count": 24
+  },
+  {
+    "chunk_id": 12,
+    "text": "Traditional Programming Vs. Machine Learning",
+    "char_start": 4979,
+    "char_end": 5023,
+    "word_count": 5
+  },
+  {
+    "chunk_id": 13,
+    "text": "Machine Learning Definition\nMachine Learning explores algorithms that learn from data, and build\nmodels from data\nMachine learning is programming computers to optimize a performance\ncriterion using example data or past experience.\nArthur Samuel, one of the pioneers of artificial intelligence defines\n\u201c\nMachine Learning is the field of study that gives the computers, an\nability to learn without being explicitly programmed \u201d\nThere are multiple ways to define machine learning. But the one which is",
+    "char_start": 5363,
+    "char_end": 5861,
+    "word_count": 76
+  },
+  {
+    "chunk_id": 14,
+    "text": "ability to learn without being explicitly programmed \u201d\nThere are multiple ways to define machine learning. But the one which is\nperhaps most relevant, concise and accepted universally is the one stated by\nTom M. Mitchell, Professor of Machine Learning Department, School of\nComputer Science, Carnegie Mellon University.",
+    "char_start": 5747,
+    "char_end": 6066,
+    "word_count": 48
+  },
+  {
+    "chunk_id": 15,
+    "text": "Machine Learning Definition\n\u2022 Tom M. Mitchell has defined machine learning as \u2018A computer program is said\nto learn from experience \u2018E\u2019 with respect to some class of tasks \u2018T\u2019 and\nperformance measure \u2018P\u2019, if its performance at tasks in \u2018T\u2019, as measured by \u2018P\u2019,\nimproves with experience E.\u2019\n\u2022 Experience \u2018E\u2019 can also be called as past data, The task \u2018T\u2019 can be a prediction,\nclassification of data, and the measure of \u2018P\u2019 can be increase of accuracy in\nprediction",
+    "char_start": 6131,
+    "char_end": 6592,
+    "word_count": 81
+  },
+  {
+    "chunk_id": 16,
+    "text": "classification of data, and the measure of \u2018P\u2019 can be increase of accuracy in\nprediction\n\u2022 In general, to have a well defined learning problem, one must identify the three\ncomponents :\n\u2022 The class of tasks\n\u2022 The measure of performance to be improved\n\u2022 The source of experience",
+    "char_start": 6515,
+    "char_end": 6791,
+    "word_count": 50
+  },
+  {
+    "chunk_id": 17,
+    "text": "Human Learning Vs.Machine Learning\nAs human takes decision based on experience, computers can make model\nbased on the extracted patterns in the input data and arrive decision\nThe aim of the Machine Learning is to learn a model from the given data\nautomatically so that it can predict the unknown data correctly\nThe learnt model is equivalent to the human experience\nHuman Leanring\nMachine Learning",
+    "char_start": 6899,
+    "char_end": 7296,
+    "word_count": 65
+  },
+  {
+    "chunk_id": 18,
+    "text": "Common Machine Learning Use-cases\n\u2022 No human experts\n\u2022 industrial/manufacturing control\n\u2022 mass spectrometer analysis, drug design, astronomic\ndiscovery\n\u2022 Black-box human expertise\n\u2022 face/handwriting/speech recognition\n\u2022 driving a car, flying a plane\n\u2022 Rapidly changing phenomena\n\u2022 credit scoring, financial modeling\n\u2022 diagnosis, fraud detection\n\u2022 Need for customization/personalization\n\u2022 personalized news reader\n\u2022 movie/book recommendation",
+    "char_start": 7283,
+    "char_end": 7723,
+    "word_count": 57
+  },
+  {
+    "chunk_id": 19,
+    "text": "Related Disciplines or Fields\nMachine learning is primarily concerned with the\naccuracy and effectiveness of the computer system.\n\npsychological models\ndata\nmining\ncognitive science\ndecision theory\ninformation theory\ndatabases\nmachine\nneuroscience\nstatistics\nevolutionary\nmodels\ncontrol theory\n\nAI - Machine Learning - Deep Learning\n\nA Typical Machine Learner",
+    "char_start": 7667,
+    "char_end": 8026,
+    "word_count": 47
+  },
+  {
+    "chunk_id": 20,
+    "text": "AI - Machine Learning - Deep Learning\n\nA Typical Machine Learner\n\nCreating a Learner - Steps\n\u2022 Choose the training experience / training data\n\u2022 Choose the target fucntion / how we would like to\nrepresent the model\n\u2022 How to choose the target fucntion / Linear or others\n\u2022 Choose the learning algorithm for the model",
+    "char_start": 8051,
+    "char_end": 8365,
+    "word_count": 57
+  },
+  {
+    "chunk_id": 21,
+    "text": "Models in Machine Learning\n\u2022 A model is a summarized knowledge representation of the raw data.\nThe model may be in any one of the following form :\n\u2022 Computational blocks like if/else rules\n\u2022 Mathematical equations\n\u2022 Specific data structures like trees or graphs\n\u2022 Logical groupings of similar observations\n\u2022 The choice of the model used to solve a specific learning problem is\na human task. The decision related to the choice of the model is\ntaken based on multiple aspects",
+    "char_start": 8435,
+    "char_end": 8908,
+    "word_count": 83
+  },
+  {
+    "chunk_id": 22,
+    "text": "Choice of the Model\n\u2022 Choice of the Model is based on\n\u2022 The type of problem to be solved: Whether the problem is\nrelated to forecast or prediction, analysis of trend, understanding\nthe different segments or groups of objects, etc.\n\u2022 Nature of the input data: How exhaustive the input data is,\nwhether the data has no values for many fields, the data types,\netc.\n\u2022 Domain of the problem: If the problem is in a business critical\ndomain with a high rate of data input and need for immediate",
+    "char_start": 8819,
+    "char_end": 9307,
+    "word_count": 91
+  },
+  {
+    "chunk_id": 23,
+    "text": "\u2022 Domain of the problem: If the problem is in a business critical\ndomain with a high rate of data input and need for immediate\ninference, e.g. fraud detection problem in banking domain.",
+    "char_start": 9203,
+    "char_end": 9388,
+    "word_count": 33
+  },
+  {
+    "chunk_id": 24,
+    "text": "Supervised Machine Learning : Classification\n\nSupervised Machine Learning : Classification\n\nSupervised Machine Learning : Regression\n\nUn-supervised Machine Learning",
+    "char_start": 9587,
+    "char_end": 9751,
+    "word_count": 18
+  },
+  {
+    "chunk_id": 25,
+    "text": "Unsupervised Machine Learning\n\u2022 In unsupervised learning, there is no labelled\ntraining data to learn from and no prediction to be\nmade\n\u2022 The objective is to take a dataset as input and try to\nfind natural groupings or patterns within the data\nelements or records\n\u2022 Therefore, unsupervised learning is often termed as\ndescriptive model and the process of unsupervised\nis\nreferred\nas\npattern\ndiscovery\nor\nknowledge discovery\n\u2022 So, it\u2019s a method of data exploration \u2013 a way of",
+    "char_start": 9971,
+    "char_end": 10445,
+    "word_count": 81
+  },
+  {
+    "chunk_id": 26,
+    "text": "is\nreferred\nas\npattern\ndiscovery\nor\nknowledge discovery\n\u2022 So, it\u2019s a method of data exploration \u2013 a way of\nlooking for patterns or structure in the data that are of\ninterest",
+    "char_start": 10355,
+    "char_end": 10528,
+    "word_count": 32
+  },
+  {
+    "chunk_id": 27,
+    "text": "Unsupervised Machine Learning Techniques\n\u2022 Mining Association\n\u2022 Rule\nbased\napproach\nfor\nrevealing\ninteresting\nrelationships about data poits\n\u2022 Discover correlations and co-occurrences within the data\nand the different connections between data objects\n\u2022 Clustering\n\u2022 Technique for exploring raw, unlabeled data and breaking\nit down into groups (or clusters) based on similarities or\ndifferences\n\u2022 Also used as a data pre-processing technique for finding\noutliers",
+    "char_start": 10739,
+    "char_end": 11200,
+    "word_count": 66
+  },
+  {
+    "chunk_id": 28,
+    "text": "Unsupervised Machine Learning Techniques\n\u2022 Dimensionality reduction\n\u2022 Extracts important features from the dataset, reducing the\nnumber of irrelevant or random features present\n\u2022 Without compromising the integrity of the properties in\nthe original data.\n\u2022 Uses principle component analysis (PCA) to reduce the\nnumber of features\n\nUnsupervised Learning",
+    "char_start": 11123,
+    "char_end": 11474,
+    "word_count": 49
+  },
+  {
+    "chunk_id": 29,
+    "text": "Clustering\nClustering is the main type of unsupervised learning. It intends to group\nor organize similar objects together.\nObjects belonging to the same cluster are quite similar to each other\nwhile objects belonging to different clusters are quite dissimilar\nThe objective of clustering to discover the intrinsic grouping of\nunlabeled data and form clusters\nDifferent measures of similarity can be applied for clustering.\nOne of the most commonly adopted similarity measure is distance",
+    "char_start": 11507,
+    "char_end": 11993,
+    "word_count": 73
+  },
+  {
+    "chunk_id": 30,
+    "text": "Different measures of similarity can be applied for clustering.\nOne of the most commonly adopted similarity measure is distance\nTwo data items are considered as a part of the same cluster if the\ndistance between them is less. In the same way, if the distance between\nthe data items is high, the items do not generally belong to the same\ncluster",
+    "char_start": 11891,
+    "char_end": 12235,
+    "word_count": 61
+  },
+  {
+    "chunk_id": 31,
+    "text": "Clustering",
+    "char_start": 12275,
+    "char_end": 12285,
+    "word_count": 1
+  },
+  {
+    "chunk_id": 32,
+    "text": "School of Information Technology & EngineeringAssociation Analysis\n\u2022 One more variant of unsupervised learning is association analysis\n\u2022 Helpful in boosting the sales pipeline\n\u2022 Used to identify the items which are being purchased together\n\u2022 From past transaction data in a grocery store, it may be observed that\nmost of the customers who have bought item A, have also bought item\nB and item C or at least one of them\n\u2022 Identify the casual relationship exist in customer buying behavior",
+    "char_start": 16800,
+    "char_end": 17286,
+    "word_count": 82
+  },
+  {
+    "chunk_id": 33,
+    "text": "B and item C or at least one of them\n\u2022 Identify the casual relationship exist in customer buying behavior\n\u2022 Using Objective measures such as support, confidence, lift and others",
+    "char_start": 17184,
+    "char_end": 17361,
+    "word_count": 31
+  },
+  {
+    "chunk_id": 34,
+    "text": "Association Analysis\n\nReinforcement Learning\nReinforcement Learning is a machine learning approach\nwhere an agent learns to make decisions by interacting\nwith an environment, receiving feedback in the form of\nrewards or penalties. The goal is for the agent to learn a\nstrategy that maximizes cumulative rewards over time.\n\nReinforcement Learning\n\nComparison with Supervised and Unsupervised\n\u2022 Objective\n\u2022 Training Data\n\u2022 Feedback Mechanism\n\u2022 Use cases",
+    "char_start": 17568,
+    "char_end": 18019,
+    "word_count": 66
+  },
+  {
+    "chunk_id": 35,
+    "text": "School of Information Technology & EngineeringObjective\n\u2022 Reinforcement Learning: Focuses on training agents to make sequences\nof decisions in an environment to maximize a cumulative reward. The\nagent learns by interacting with the environment and receiving feedback in\nthe form of rewards or penalties.\n\u2022 Supervised Learning: Involves training a model on a labeled dataset,\nwhere the algorithm learns the mapping between input features and",
+    "char_start": 17952,
+    "char_end": 18392,
+    "word_count": 65
+  },
+  {
+    "chunk_id": 36,
+    "text": "where the algorithm learns the mapping between input features and\ncorresponding target labels. The goal is to make accurate predictions on\nnew, unseen data.\n\u2022 Unsupervised Learning: Deals with unlabeled data and aims to discover\nhidden patterns, relationships, or structures within the data. It includes\ntasks like clustering, dimensionality reduction, and density estimation.",
+    "char_start": 18336,
+    "char_end": 18712,
+    "word_count": 53
+  },
+  {
+    "chunk_id": 37,
+    "text": "Training Data\n\u2022 Reinforcement Learning : The agent learns from trial and\nerror,\nexploring\ndifferent\nactions\nand\nobserving\nconsequences (rewards or penalties) of those actions.\n\u2022 Supervised Learning: Requires a labeled dataset where\neach example is paired with a corresponding target label.\nThe model learns to generalize from the provided examples\nto make predictions on new, unseen data.\n\u2022 Unsupervised Learning: Works with unlabeled data, and\nthe algorithms try to find inherent structures or patterns",
+    "char_start": 18720,
+    "char_end": 19223,
+    "word_count": 75
+  },
+  {
+    "chunk_id": 38,
+    "text": "\u2022 Unsupervised Learning: Works with unlabeled data, and\nthe algorithms try to find inherent structures or patterns\nwithin the data without explicit target labels.",
+    "char_start": 19104,
+    "char_end": 19266,
+    "word_count": 24
+  },
+  {
+    "chunk_id": 39,
+    "text": "Feedback Mechanism\n\u2022 Reinforcement Learning (RL): Feedback is in the form of\nrewards or penalties based on the agent's actions in the\nenvironment. The agent learns to maximize the cumulative\nreward over time.\n\u2022 Supervised\nLearning:\nThe\nmodel\nreceives\nexplicit\nfeedback in the training data. The goal is to minimize the\ndifference between predicted and true labels.\n\u2022 Unsupervised Learning: There is no explicit feedback in\nthe form of labels. The algorithms aim to discover intrinsic",
+    "char_start": 19488,
+    "char_end": 19971,
+    "word_count": 76
+  },
+  {
+    "chunk_id": 40,
+    "text": "\u2022 Unsupervised Learning: There is no explicit feedback in\nthe form of labels. The algorithms aim to discover intrinsic\npatterns or relationships within the data.",
+    "char_start": 19872,
+    "char_end": 20033,
+    "word_count": 25
+  },
+  {
+    "chunk_id": 41,
+    "text": "Use cases\n\u2022 Reinforcement Learning (RL): Often applied in scenarios\nwhere an agent interacts with a dynamic environment, such\nas game playing, robotic control, and autonomous systems.\n\u2022 Supervised Learning: Commonly used for tasks like image\nclassification, speech recognition, and regression problems\nwhere there's a clear mapping between inputs and labels.\n\u2022 Unsupervised Learning: Applied in tasks like clustering,\nanomaly detection, and dimensionality reduction, where the",
+    "char_start": 20256,
+    "char_end": 20732,
+    "word_count": 66
+  },
+  {
+    "chunk_id": 42,
+    "text": "\u2022 Unsupervised Learning: Applied in tasks like clustering,\nanomaly detection, and dimensionality reduction, where the\ngoal is to uncover hidden structures in the data.",
+    "char_start": 20640,
+    "char_end": 20807,
+    "word_count": 24
+  },
+  {
+    "chunk_id": 43,
+    "text": "\u2022 Semi-supervised\nuses\ncombination\nof\nsupervised and unsupervised learning by applying labeled\nand unlabeled data to train a model\n\u2022 Labeled data provides the model with explicit examples\nof what input data corresponds to which labels, allowing\nthe model to learn to predict it for new data\n\u2022 Unlabeled data is then used to refine and improve this\nmodel, helping it better understand its overall structure\nand distribution, which can lead to more accurate and",
+    "char_start": 21024,
+    "char_end": 21483,
+    "word_count": 75
+  },
+  {
+    "chunk_id": 44,
+    "text": "model, helping it better understand its overall structure\nand distribution, which can lead to more accurate and\ngeneralized predictions when dealing with new, unlabeled\ndata",
+    "char_start": 21408,
+    "char_end": 21581,
+    "word_count": 25
+  },
+  {
+    "chunk_id": 45,
+    "text": "Machine Learning - Challenges\n\u2022 Need a Well-Posed Learning Problem, Not an ill-posed\none\n\u2022 Need of huge amount of quality data\n\u2022 High Computation Power\n\u2022 Complexity of Algorithms\n\u2022 Overfitting and Underfitting of Machine learning models",
+    "char_start": 21792,
+    "char_end": 22028,
+    "word_count": 38
+  },
+  {
+    "chunk_id": 46,
+    "text": "PAC (Probably Approximately Correct) Learning : Problem Setting\nFew thoughts/questions\n\uf0a8Is it possible to identify classes of learning problems that are\ninherently\ndifficult\nor\neasy,\nindependent\nof\nalgorithm?\n\uf0a8Can one characterize the number of training examples necessary\nor sufficient to assure successful learning?\n\uf0a8Can one characterize the number of mistakes that a learner will\nmake before learning the target function?\n\uf0a8PAC (Probably Approximately Correct) learning is a theoretical",
+    "char_start": 22176,
+    "char_end": 22664,
+    "word_count": 68
+  },
+  {
+    "chunk_id": 47,
+    "text": "make before learning the target function?\n\uf0a8PAC (Probably Approximately Correct) learning is a theoretical\nframework for mathematical analysis of\nmachine learning\nalgorithms - Provides answer for these question",
+    "char_start": 22560,
+    "char_end": 22769,
+    "word_count": 28
+  },
+  {
+    "chunk_id": 48,
+    "text": "PAC (Probably Approximately Correct) Learning\n\uf0a8It was developed by Leslie Valiant in 1984.\n\uf0a8It is part of a field called Computational Learning Theory.\n\uf0a8It defines a mathematical relationship between the number of\ntraining samples, the error rate, and the probability that the\navailable training data are large enough to attain the desired error\nrate.\n\uf0a8Answers the following questions\n\uf0a4\"Under what conditions is successful learning possible and\nimpossible?\"",
+    "char_start": 22944,
+    "char_end": 23401,
+    "word_count": 67
+  },
+  {
+    "chunk_id": 49,
+    "text": "rate.\n\uf0a8Answers the following questions\n\uf0a4\"Under what conditions is successful learning possible and\nimpossible?\"\n\uf0a4\"Under what conditions is a particular learning algorithm assured\nof learning successfully?\u201d",
+    "char_start": 23328,
+    "char_end": 23533,
+    "word_count": 26
+  },
+  {
+    "chunk_id": 50,
+    "text": "\uf06fLearner\nreceives\nsamples\nand\nmust\nselect/output\ngeneralization function (hypothesis) from a certain class of\npossible functions.\n\uf071Goal of PAC : With high probability (probably) , the selected\nfunction should have low generalization error (approximately\ncorrect)\n\uf06fThe basic idea behind PAC learning is to quantify the trade-\noff between the number of training examples (samples) a\nlearning algorithm requires and the probability that the\nalgorithm makes an incorrect prediction on new, unseen data",
+    "char_start": 23712,
+    "char_end": 24209,
+    "word_count": 72
+  },
+  {
+    "chunk_id": 51,
+    "text": "Problem setting\nGiven:\n\uf0a8X refers to the set of all possible instances over which target functions are\ndefined\n\uf0a8C refers to set of target concepts that our learner might be called upon to\nlearn.\n\uf0a8Each target concept c in C corresponds to some subset of X, or equivalently to\nsome boolean-valued function c : X \uf0e0{0, 1}.\n\uf0a8If x is a positive example of c, then c(x) = 1; if x is a negative example, c(x) =\n0.\nDetermine:\n\uf0a8A hypothesis h in H such that h(x) = c(x) for all x in Training examples for a",
+    "char_start": 24096,
+    "char_end": 24591,
+    "word_count": 97
+  },
+  {
+    "chunk_id": 52,
+    "text": "0.\nDetermine:\n\uf0a8A hypothesis h in H such that h(x) = c(x) for all x in Training examples for a\nDistribution \u2018D\u2019 over \u2018X\u2019\n\uf0a8A hypothesis h in H such that h(x) = c(x) for all x in instances \u2018X\u2019",
+    "char_start": 24480,
+    "char_end": 24669,
+    "word_count": 40
+  },
+  {
+    "chunk_id": 53,
+    "text": "Problem setting\n\uf06fInstances are generated at random from X according to\nsome probability distribution D\n\uf06fD may be any distribution , D is stationary ( the\ndistribution does not change over time)\n\uf06fTraining examples, <x, c(x)>, are generated by drawing\nan instance x at random according to D, then presenting x\nalong with its target value, c(x), to the learner\n\nSchool of Information Technology & EngineeringError in Prediction",
+    "char_start": 24864,
+    "char_end": 25288,
+    "word_count": 68
+  },
+  {
+    "chunk_id": 54,
+    "text": "The key components of PAC learning\n\uf06fConcept Class (C): This represents the set of all possible\nconcepts that the learning algorithm is trying to learn. This could\ninclude various patterns, relationships, or decision boundaries\nwithin the data.\n\uf06fHypothesis Class (H): This is the set of hypotheses that the\nlearning algorithm can output based on the training data. The\nlearning process involves selecting a hypothesis from this class\nthat best fits the training examples.",
+    "char_start": 25248,
+    "char_end": 25718,
+    "word_count": 73
+  },
+  {
+    "chunk_id": 55,
+    "text": "learning process involves selecting a hypothesis from this class\nthat best fits the training examples.\n\uf06fSample Complexity (m): It is the minimum number of training\nexamples needed for the learning algorithm to achieve a high\nprobability of success. It quantifies the amount of data needed for\nthe algorithm to generalize well to unseen instances.",
+    "char_start": 25632,
+    "char_end": 25978,
+    "word_count": 54
+  },
+  {
+    "chunk_id": 56,
+    "text": "Parameters in PAC learning\n\uf06fApproximation Error parameter (\u03b5)\n\u2022 It measures how well the hypothesis approximates the true concept.\n\u2022 It represents the acceptable level of deviation between the predicted\noutput of the hypothesis and the true output.\n\u2022 Gives the upper bound on the error in accuracy\n\u2022 Accuracy : 1- \u03b5\n\uf06fProbability of Failure (\u03b4)\n\u2022 It quantifies the level of confidence that the hypothesis generalizes\nwell to unseen data.\n\u2022 Confidence : 1-\u03b4",
+    "char_start": 26016,
+    "char_end": 26471,
+    "word_count": 76
+  },
+  {
+    "chunk_id": 57,
+    "text": "\uf06fSince training examples drawn at random, there must be a non-\nzero probability, that they will be misleading\n\uf06fDo not require that learner to be succeeded for every randomly\ndrawn sequence of\ntraining examples - Only require that the\nprobability of failure to be bounded by constant \u2018\u03b4\u2019 that can also\nbe made arbitarly small.\n\nFormal Definition",
+    "char_start": 26400,
+    "char_end": 26744,
+    "word_count": 57
+  },
+  {
+    "chunk_id": 58,
+    "text": "Formal Definition\n\n\u2022 With high probability, a PAC learning algorithm find a\nhypothesis (i.e.) approximately identical to the hidden\ntarget concept.\nTraining set\nLearning algorithm\nHypothesis\nh:x\uf0e0{0,1}\n\nPAC - Learning Example\n\nApproximately Correct Hypothesis\n\uf06fA Hypothesis is said to be approximately correct if the error\nregion is less than or equal to \u03b5\n\uf06fThe\nprobability\nthat\nalgorithm\nproduces\napproximately correct hypothesis will be",
+    "char_start": 26784,
+    "char_end": 27221,
+    "word_count": 63
+  },
+  {
+    "chunk_id": 59,
+    "text": "PAC : SAMPLE COMPLEXITY\n\u2022 A learning algorithm is considered PAC-learnable if, with high\nprobability (at least 1\u2212\u03b4), it outputs a hypothesis whose\napproximation error is within \u03b5 of the true concept.\n\u2022 The guarantee is that the algorithm's performance improves as\nthe sample size increases.\n\u2022 The sample complexity formula is a central expression in\nPAC learning is given by\nm\u22651\n\u03b5ln |H| + ln 1\nHere |H| is the cardinality of the hypothesis space",
+    "char_start": 27168,
+    "char_end": 27613,
+    "word_count": 76
+  },
+  {
+    "chunk_id": 60,
+    "text": "COMPUTATION OF SAMPLE COMPLEXITY :\nEXAMPLE\n\u2022 Suppose you are given with\n\u2022 Hypothesis class: A finite hypothesis class H with |H| =\n\n\u2022 Error tolerance \u03b5: \u03b5= 0.05 (5% error tolerance)\n\u2022 Confidence level 1 \u2212\u03b4: \u03b4= 0.01 (99% confidence)\n\u2022 Find the number of samples required (m) required to\nguarantee that the true error of the learned hypothesis\nh\u2208His within \u03b5with confidence at least 1 \u2212\u03b4\n\nSOLUTION\n\u2022 We have the PAC formula\nm\u2265\n\n\u03b5ln |H| + ln",
+    "char_start": 27552,
+    "char_end": 27990,
+    "word_count": 80
+  },
+  {
+    "chunk_id": 61,
+    "text": "SOLUTION\n\u2022 We have the PAC formula\nm\u2265\n\n\u03b5ln |H| + ln\n\n\u2022 Step 1: Compute ln|H|. Here, |H| = 1000.\nSo, ln(|H|) = ln(1000)\n= 2.303 \u00d7 log10(1000)\n= 2.303 \u00d7\n\n= 6.909\n\u2022 Step 2: Compute ln\n\n\u03b4. Here \u03b4= 0.01 = ln\n\n0.01 = ln (100)\n= 2.303 \u00d7 log10(100)\n= 2.303 \u00d7 2\n= 4.606\nln( x) = loge(x)\nlogex= 2.303 \u00d7 log10( x)\n\nSOLUTION\n\u2022 Step 3: Compute m\nUsing PAC formula, m\u2265\n\n\u03b5ln |H| + ln\n\n\u2022 So, m\u2265\n\n0.05 \u00d7 6.909 + 4.606 = (20) \u00d7 11.515\n= 230.3\n\u2022 As m must be an integer, we have m = 231",
+    "char_start": 27936,
+    "char_end": 28403,
+    "word_count": 108
+  },
+  {
+    "chunk_id": 62,
+    "text": "\u2022 Problem set up:\n\u2022 Suppose there are two input variables X1, X2 and one\noutput variable Y\n\u2022 Further, suppose\n)\nX1 \u2208{A, B}(two possible values ,\n)\nX2 \u2208{D, E, F}(three possible values and Y is an binary\noutput variable \u2208{0, 1}\n\u2022 The task is to learn hypothesis h that maps X1, X2 to Y.\n\u2022 The input space X consists of all possible combinations of\nvalues X1, X2 , i.e. it has 6 pairs of values\n\u2022 X=\nA, D, A, E, A, F, B, D, B, E, B, F\nComputing the Number of Hypothesis : Example",
+    "char_start": 28320,
+    "char_end": 28796,
+    "word_count": 101
+  },
+  {
+    "chunk_id": 63,
+    "text": "\u2022 Hypothesis class:\n\u2022 Since h maps each input pair X1, X2 to a value of Y =\n0,1 independently, the total number of hypothesis is\n26 = 64\n\u2022 The 64 hypotheses maps all possible mappings from the\ninput space to the output space.\nComputing the Number of Hypothesis : Example",
+    "char_start": 28704,
+    "char_end": 28974,
+    "word_count": 52
+  },
+  {
+    "chunk_id": 64,
+    "text": "Summary of Module 1\n\u2022 Machine Learning: How Machines Learn?\n\u2022 Well-Posed Learning Vs. ILL-Posed Learning\n\u2022 Taxonomy of Machine Learning\n\u2022 ML Models & Algorithms\n\u2022 ML \u2013 Use cases\n\u2022 PAC Learning\n\u2022 Hypothesis and Sample Complexity in PAC Learning",
+    "char_start": 29088,
+    "char_end": 29331,
+    "word_count": 42
+  }
+]

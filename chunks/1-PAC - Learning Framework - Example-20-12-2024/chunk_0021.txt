@@ -1,0 +1,10 @@
+Models in Machine Learning
+• A model is a summarized knowledge representation of the raw data.
+The model may be in any one of the following form :
+• Computational blocks like if/else rules
+• Mathematical equations
+• Specific data structures like trees or graphs
+• Logical groupings of similar observations
+• The choice of the model used to solve a specific learning problem is
+a human task. The decision related to the choice of the model is
+taken based on multiple aspects

@@ -1,0 +1,10 @@
+Machine Learning Definition
+Machine Learning explores algorithms that learn from data, and build
+models from data
+Machine learning is programming computers to optimize a performance
+criterion using example data or past experience.
+Arthur Samuel, one of the pioneers of artificial intelligence defines
+“
+Machine Learning is the field of study that gives the computers, an
+ability to learn without being explicitly programmed ”
+There are multiple ways to define machine learning. But the one which is

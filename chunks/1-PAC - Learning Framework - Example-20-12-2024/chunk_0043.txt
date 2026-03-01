@@ -1,0 +1,12 @@
+• Semi-supervised
+uses
+combination
+of
+supervised and unsupervised learning by applying labeled
+and unlabeled data to train a model
+• Labeled data provides the model with explicit examples
+of what input data corresponds to which labels, allowing
+the model to learn to predict it for new data
+• Unlabeled data is then used to refine and improve this
+model, helping it better understand its overall structure
+and distribution, which can lead to more accurate and

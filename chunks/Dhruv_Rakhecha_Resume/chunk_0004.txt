@@ -1,0 +1,11 @@
+Projects
+Vendor Ageing
+Jan 2025 – April 2025
+• Designed an interactive dashboard to analyze vendor ageing and pending amounts.
+• Performed time-series analysis and evaluated model performance using MAE and Huber Loss.
+AI-Powered RAG System
+Jan 2026 – Present
+• Designed and implemented a Retrieval-Augmented Generation (RAG) system for domain-specific question
+answering.
+• Built and optimized vector embeddings and retrieval pipelines to improve response accuracy.
+Positions of Responsibility

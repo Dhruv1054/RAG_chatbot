@@ -1,0 +1,7 @@
+classification of data, and the measure of ‘P’ can be increase of accuracy in
+prediction
+• In general, to have a well defined learning problem, one must identify the three
+components :
+• The class of tasks
+• The measure of performance to be improved
+• The source of experience

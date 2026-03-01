@@ -1,0 +1,15 @@
+Feedback Mechanism
+• Reinforcement Learning (RL): Feedback is in the form of
+rewards or penalties based on the agent's actions in the
+environment. The agent learns to maximize the cumulative
+reward over time.
+• Supervised
+Learning:
+The
+model
+receives
+explicit
+feedback in the training data. The goal is to minimize the
+difference between predicted and true labels.
+• Unsupervised Learning: There is no explicit feedback in
+the form of labels. The algorithms aim to discover intrinsic

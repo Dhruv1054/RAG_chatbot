@@ -1,0 +1,17 @@
+What is Machine Learning ?
+• Before
+answering
+question
+‘What
+is
+machine
+learning?’ more fundamental questions that peep into
+one’s mind are :
+Q1 :
+Do machines really learn?
+Q2 :
+If so, how do they learn?
+Q3 :
+Which problem can we consider as a well-posed learning
+problem? What are the important components that are
+required to well-define a learning problem ?

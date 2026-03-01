@@ -1,0 +1,9 @@
+Since training examples drawn at random, there must be a non-
+zero probability, that they will be misleading
+Do not require that learner to be succeeded for every randomly
+drawn sequence of
+training examples - Only require that the
+probability of failure to be bounded by constant ‘δ’ that can also
+be made arbitarly small.
+
+Formal Definition

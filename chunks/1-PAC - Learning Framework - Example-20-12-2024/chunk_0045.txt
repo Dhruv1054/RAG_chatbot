@@ -1,0 +1,7 @@
+Machine Learning - Challenges
+• Need a Well-Posed Learning Problem, Not an ill-posed
+one
+• Need of huge amount of quality data
+• High Computation Power
+• Complexity of Algorithms
+• Overfitting and Underfitting of Machine learning models

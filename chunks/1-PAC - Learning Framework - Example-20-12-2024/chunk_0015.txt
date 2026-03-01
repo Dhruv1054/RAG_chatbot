@@ -1,0 +1,8 @@
+Machine Learning Definition
+• Tom M. Mitchell has defined machine learning as ‘A computer program is said
+to learn from experience ‘E’ with respect to some class of tasks ‘T’ and
+performance measure ‘P’, if its performance at tasks in ‘T’, as measured by ‘P’,
+improves with experience E.’
+• Experience ‘E’ can also be called as past data, The task ‘T’ can be a prediction,
+classification of data, and the measure of ‘P’ can be increase of accuracy in
+prediction

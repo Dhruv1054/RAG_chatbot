@@ -1,0 +1,107 @@
+[
+  {
+    "chunk_id": 0,
+    "text": "FCFS Example\nConsider the above set of processes that arrive at time zero. The length of the CPU burst\ntime given in millisecond.\nNow we calculate the average waiting time, average turnaround time and throughput.",
+    "char_start": 0,
+    "char_end": 212,
+    "word_count": 35
+  },
+  {
+    "chunk_id": 1,
+    "text": "First of all, we have to calculate the waiting time of each process.\nWaiting Time = Starting Time - Arrival Time\nWaiting time of\nP1 = 0\nP2 = 5 - 0 = 5 ms\nP3 = 29 - 0 = 29 ms\nP4 = 45 - 0 = 45 ms\nP5 = 55 - 0 = 55 ms\nAverage Waiting Time = Waiting Time of all Processes / Total Number of Process\nTherefore, average waiting time = (0 + 5 + 29 + 45 + 55) / 5 = 25 ms\nTurnaround Time = Waiting time in the ready queue + executing time + waiting time in\nwaiting-queue for I/O\nTurnaround time of\nP1 = 0 + 5 + 0 = 5ms",
+    "char_start": 384,
+    "char_end": 892,
+    "word_count": 123
+  },
+  {
+    "chunk_id": 2,
+    "text": "waiting-queue for I/O\nTurnaround time of\nP1 = 0 + 5 + 0 = 5ms\nP2 = 5 + 24 + 0 = 29ms\nP3 = 29 + 16 + 0 = 45ms\nP4 = 45 + 10 + 0 = 55ms\nP5 = 55 + 3 + 0 = 58ms\nTotal Turnaround Time = (5 + 29 + 45 + 55 + 58)ms = 192ms\nAverage Turnaround Time = (Total Turnaround Time / Total Number of Process) = (192 /\n5)ms = 38.4ms",
+    "char_start": 768,
+    "char_end": 1080,
+    "word_count": 84
+  },
+  {
+    "chunk_id": 3,
+    "text": "Here, we have a total of five processes. Process P1, P2, P3, P4, and P5 takes 5ms, 24ms,\n16ms, 10ms, and 3ms to execute respectively.\nThroughput = (5 + 24 +16 + 10 +3) / 5 = 11.6ms\nIt means one process executes in every 11.6 ms.",
+    "char_start": 1805,
+    "char_end": 2033,
+    "word_count": 47
+  },
+  {
+    "chunk_id": 4,
+    "text": "SJF (Shortest Job First) Scheduling\nSJF Scheduling\nWe will apply the same formula to find average waiting time in this problem. Here arrival\ntime is common to all processes(i.e., zero).\nWaiting Time for\nP1 = 3 - 0 = 3ms\nP2 = 34 - 0 = 34ms\nP3 = 18 - 0 = 18ms\nP4 = 8 - 0 = 8ms\nP5 = 0ms\nNow, Average Waiting Time = (3 + 34 + 18 + 8 + 0) / 5 = 12.6ms\nAccording to the SJF Gantt chart and the turnaround time formulae,\nTurnaround Time of\nP1 = 3 + 5 = 8ms\nP2 = 34 + 24 = 58ms\nP3 = 18 + 16 = 34ms\nP4 = 8 + 10 = 18ms",
+    "char_start": 2189,
+    "char_end": 2697,
+    "word_count": 124
+  },
+  {
+    "chunk_id": 5,
+    "text": "Turnaround Time of\nP1 = 3 + 5 = 8ms\nP2 = 34 + 24 = 58ms\nP3 = 18 + 16 = 34ms\nP4 = 8 + 10 = 18ms\nP5 = 0 + 3 = 3ms\nTherefore, Average Turnaround Time = (8 + 58 + 34 + 18 + 3) / 5 = 24.2ms",
+    "char_start": 2573,
+    "char_end": 2757,
+    "word_count": 56
+  },
+  {
+    "chunk_id": 6,
+    "text": "Here, we have a total of five processes. Process P1, P2, P3, P4, and P5 takes 5ms, 24ms,\n16ms, 10ms, and 3ms to execute respectively.\nTherefore, Throughput will be same as above problem i.e., 11.6ms for each process.\n\nRound Robin Scheduling Example\nHere is the Round Robin scheduling example with gantt chart. Time Quantum is 5ms.\n\nRound Robin Scheduling",
+    "char_start": 2957,
+    "char_end": 3311,
+    "word_count": 59
+  },
+  {
+    "chunk_id": 7,
+    "text": "For finding Average Waiting Time, we have to find out the waiting time of each process.\nWaiting Time of\nP1 = 0 + (15 - 5) + (24 - 20) = 14ms\nP2 = 5 + (20 - 10) = 15ms\nP3 = 10 + (21 - 15) = 16ms\nTherefore, Average Waiting Time = (14 + 15 + 16) / 3 = 15ms\nSame concept for finding the Turnaround Time.\nTurnaround Time of\nP1 = 14 + 30 = 44ms\nP2 = 15 + 6 = 21ms\nP3 = 16 + 8 = 24ms\nTherefore, Average Turnaround Time = (44 + 21 + 24) / 3 = 29.66ms\nThroughput = (30 + 6 + 8) / 3 = 14.66ms",
+    "char_start": 3341,
+    "char_end": 3823,
+    "word_count": 120
+  },
+  {
+    "chunk_id": 8,
+    "text": "P3 = 16 + 8 = 24ms\nTherefore, Average Turnaround Time = (44 + 21 + 24) / 3 = 29.66ms\nThroughput = (30 + 6 + 8) / 3 = 14.66ms\nIn 14.66ms, one process executes.",
+    "char_start": 3725,
+    "char_end": 3883,
+    "word_count": 37
+  },
+  {
+    "chunk_id": 9,
+    "text": "Shortest Remaining Time First(SRTF)\n\nSRTF Scheduling",
+    "char_start": 4109,
+    "char_end": 4161,
+    "word_count": 6
+  },
+  {
+    "chunk_id": 10,
+    "text": "First of all, we have to find the waiting time for each process.\nWaiting Time of process\nP1 = 0ms\nP2 = (3 - 2) + (10 - 4) = 7ms\nP3 = (4 - 4) = 0ms\nP4 = (15 - 6) = 9ms\nP5 = (8 - 8) = 0ms\nTherefore, Average Waiting Time = (0 + 7 + 0 + 9 + 0) / 5 = 3.2ms\nFirst of all, we have to find the turnaround time of each process.\nTurnaround Time of process\nP1 = (0 + 3) = 3ms\nP2 = (7 + 6) = 13ms\nP3 = (0 + 4) = 4ms\nP4 = (9 + 5) = 14ms\nP5 = (0 + 2) = 2ms",
+    "char_start": 4493,
+    "char_end": 4935,
+    "word_count": 122
+  },
+  {
+    "chunk_id": 11,
+    "text": "Turnaround Time of process\nP1 = (0 + 3) = 3ms\nP2 = (7 + 6) = 13ms\nP3 = (0 + 4) = 4ms\nP4 = (9 + 5) = 14ms\nP5 = (0 + 2) = 2ms\nTherefore, Average Turnaround Time = (3 + 13 + 4 + 14 + 2) / 5 = 7.2ms\nTroughput = (3 + 6 + 4 + 5 + 2) / 5 = 4ms\nTherefore, each process takes 4ms to execute.",
+    "char_start": 4877,
+    "char_end": 5159,
+    "word_count": 79
+  },
+  {
+    "chunk_id": 12,
+    "text": "Priority Scheduling Example\nPriority Scheduling Example with Gantt Chart",
+    "char_start": 5261,
+    "char_end": 5333,
+    "word_count": 9
+  },
+  {
+    "chunk_id": 13,
+    "text": "First of all, we have to find out the waiting time of each process.\nWaiting Time of process\nP1 = 3ms\nP2 = 13ms\nP3 = 25ms\nP4 = 0ms\nP5 = 9ms\nTherefore, Average Waiting Time = (3 + 13 + 25 + 0 + 9) / 5 = 10ms\nFirst finding Turnaround Time of each process.\nTurnaround Time of process\nP1 = (3 + 6) = 9ms\nP2 = (13 + 12) = 25ms\nP3 = (25 + 1) = 26ms\nP4 = (0 + 3) = 3ms\nP5 = (9 + 4) = 13ms\nTherefore, Average Turnaround Time = (9 + 25 + 26 + 3 + 13) / 5 = 15.2ms\nThroughput = (6 + 12 + 1 + 3 + 4) / 5 = 5.2ms",
+    "char_start": 5645,
+    "char_end": 6144,
+    "word_count": 130
+  },
+  {
+    "chunk_id": 14,
+    "text": "Therefore, Average Turnaround Time = (9 + 25 + 26 + 3 + 13) / 5 = 15.2ms\nThroughput = (6 + 12 + 1 + 3 + 4) / 5 = 5.2ms\nTherefore, each process takes 5.2ms to execute.",
+    "char_start": 6029,
+    "char_end": 6195,
+    "word_count": 40
+  }
+]

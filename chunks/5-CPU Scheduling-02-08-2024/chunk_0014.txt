@@ -1,0 +1,3 @@
+Therefore, Average Turnaround Time = (9 + 25 + 26 + 3 + 13) / 5 = 15.2ms
+Throughput = (6 + 12 + 1 + 3 + 4) / 5 = 5.2ms
+Therefore, each process takes 5.2ms to execute.

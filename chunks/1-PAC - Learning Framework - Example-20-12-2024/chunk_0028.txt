@@ -1,0 +1,10 @@
+Unsupervised Machine Learning Techniques
+• Dimensionality reduction
+• Extracts important features from the dataset, reducing the
+number of irrelevant or random features present
+• Without compromising the integrity of the properties in
+the original data.
+• Uses principle component analysis (PCA) to reduce the
+number of features
+
+Unsupervised Learning

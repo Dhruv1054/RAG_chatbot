@@ -1,0 +1,10 @@
+is
+referred
+as
+pattern
+discovery
+or
+knowledge discovery
+• So, it’s a method of data exploration – a way of
+looking for patterns or structure in the data that are of
+interest

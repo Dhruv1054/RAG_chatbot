@@ -1,0 +1,5 @@
+0.
+Determine:
+A hypothesis h in H such that h(x) = c(x) for all x in Training examples for a
+Distribution ‘D’ over ‘X’
+A hypothesis h in H such that h(x) = c(x) for all x in instances ‘X’

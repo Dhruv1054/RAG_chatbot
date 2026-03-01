@@ -1,0 +1,21 @@
+Related Disciplines or Fields
+Machine learning is primarily concerned with the
+accuracy and effectiveness of the computer system.
+
+psychological models
+data
+mining
+cognitive science
+decision theory
+information theory
+databases
+machine
+neuroscience
+statistics
+evolutionary
+models
+control theory
+
+AI - Machine Learning - Deep Learning
+
+A Typical Machine Learner

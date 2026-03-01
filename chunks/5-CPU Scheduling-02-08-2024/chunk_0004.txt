@@ -1,0 +1,17 @@
+SJF (Shortest Job First) Scheduling
+SJF Scheduling
+We will apply the same formula to find average waiting time in this problem. Here arrival
+time is common to all processes(i.e., zero).
+Waiting Time for
+P1 = 3 - 0 = 3ms
+P2 = 34 - 0 = 34ms
+P3 = 18 - 0 = 18ms
+P4 = 8 - 0 = 8ms
+P5 = 0ms
+Now, Average Waiting Time = (3 + 34 + 18 + 8 + 0) / 5 = 12.6ms
+According to the SJF Gantt chart and the turnaround time formulae,
+Turnaround Time of
+P1 = 3 + 5 = 8ms
+P2 = 34 + 24 = 58ms
+P3 = 18 + 16 = 34ms
+P4 = 8 + 10 = 18ms

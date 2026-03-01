@@ -1,0 +1,9 @@
+Use cases
+• Reinforcement Learning (RL): Often applied in scenarios
+where an agent interacts with a dynamic environment, such
+as game playing, robotic control, and autonomous systems.
+• Supervised Learning: Commonly used for tasks like image
+classification, speech recognition, and regression problems
+where there's a clear mapping between inputs and labels.
+• Unsupervised Learning: Applied in tasks like clustering,
+anomaly detection, and dimensionality reduction, where the

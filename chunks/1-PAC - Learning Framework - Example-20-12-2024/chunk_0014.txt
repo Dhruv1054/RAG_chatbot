@@ -1,0 +1,5 @@
+ability to learn without being explicitly programmed ”
+There are multiple ways to define machine learning. But the one which is
+perhaps most relevant, concise and accepted universally is the one stated by
+Tom M. Mitchell, Professor of Machine Learning Department, School of
+Computer Science, Carnegie Mellon University.

@@ -1,0 +1,17 @@
+Unsupervised Machine Learning
+• In unsupervised learning, there is no labelled
+training data to learn from and no prediction to be
+made
+• The objective is to take a dataset as input and try to
+find natural groupings or patterns within the data
+elements or records
+• Therefore, unsupervised learning is often termed as
+descriptive model and the process of unsupervised
+is
+referred
+as
+pattern
+discovery
+or
+knowledge discovery
+• So, it’s a method of data exploration – a way of

@@ -1,0 +1,11 @@
+PAC : SAMPLE COMPLEXITY
+• A learning algorithm is considered PAC-learnable if, with high
+probability (at least 1−δ), it outputs a hypothesis whose
+approximation error is within ε of the true concept.
+• The guarantee is that the algorithm's performance improves as
+the sample size increases.
+• The sample complexity formula is a central expression in
+PAC learning is given by
+m≥1
+εln |H| + ln 1
+Here |H| is the cardinality of the hypothesis space

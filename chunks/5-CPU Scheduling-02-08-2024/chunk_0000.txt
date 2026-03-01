@@ -1,0 +1,4 @@
+FCFS Example
+Consider the above set of processes that arrive at time zero. The length of the CPU burst
+time given in millisecond.
+Now we calculate the average waiting time, average turnaround time and throughput.

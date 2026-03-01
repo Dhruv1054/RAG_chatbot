@@ -1,0 +1,6 @@
+Different measures of similarity can be applied for clustering.
+One of the most commonly adopted similarity measure is distance
+Two data items are considered as a part of the same cluster if the
+distance between them is less. In the same way, if the distance between
+the data items is high, the items do not generally belong to the same
+cluster

@@ -1,0 +1,9 @@
+The key components of PAC learning
+Concept Class (C): This represents the set of all possible
+concepts that the learning algorithm is trying to learn. This could
+include various patterns, relationships, or decision boundaries
+within the data.
+Hypothesis Class (H): This is the set of hypotheses that the
+learning algorithm can output based on the training data. The
+learning process involves selecting a hypothesis from this class
+that best fits the training examples.

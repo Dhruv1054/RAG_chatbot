@@ -1,0 +1,8 @@
+Summary of Module 1
+• Machine Learning: How Machines Learn?
+• Well-Posed Learning Vs. ILL-Posed Learning
+• Taxonomy of Machine Learning
+• ML Models & Algorithms
+• ML – Use cases
+• PAC Learning
+• Hypothesis and Sample Complexity in PAC Learning

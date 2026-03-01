@@ -1,0 +1,10 @@
+AI - Machine Learning - Deep Learning
+
+A Typical Machine Learner
+
+Creating a Learner - Steps
+• Choose the training experience / training data
+• Choose the target fucntion / how we would like to
+represent the model
+• How to choose the target fucntion / Linear or others
+• Choose the learning algorithm for the model

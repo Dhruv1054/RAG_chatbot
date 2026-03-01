@@ -1,0 +1,14 @@
+Common Machine Learning Use-cases
+• No human experts
+• industrial/manufacturing control
+• mass spectrometer analysis, drug design, astronomic
+discovery
+• Black-box human expertise
+• face/handwriting/speech recognition
+• driving a car, flying a plane
+• Rapidly changing phenomena
+• credit scoring, financial modeling
+• diagnosis, fraud detection
+• Need for customization/personalization
+• personalized news reader
+• movie/book recommendation

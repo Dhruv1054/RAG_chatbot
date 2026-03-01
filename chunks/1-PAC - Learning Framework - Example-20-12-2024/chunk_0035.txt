@@ -1,0 +1,7 @@
+School of Information Technology & EngineeringObjective
+• Reinforcement Learning: Focuses on training agents to make sequences
+of decisions in an environment to maximize a cumulative reward. The
+agent learns by interacting with the environment and receiving feedback in
+the form of rewards or penalties.
+• Supervised Learning: Involves training a model on a labeled dataset,
+where the algorithm learns the mapping between input features and

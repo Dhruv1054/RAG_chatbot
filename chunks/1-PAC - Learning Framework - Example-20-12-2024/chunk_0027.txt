@@ -1,0 +1,17 @@
+Unsupervised Machine Learning Techniques
+• Mining Association
+• Rule
+based
+approach
+for
+revealing
+interesting
+relationships about data poits
+• Discover correlations and co-occurrences within the data
+and the different connections between data objects
+• Clustering
+• Technique for exploring raw, unlabeled data and breaking
+it down into groups (or clusters) based on similarities or
+differences
+• Also used as a data pre-processing technique for finding
+outliers

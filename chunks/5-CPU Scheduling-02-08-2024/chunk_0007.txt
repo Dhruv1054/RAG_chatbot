@@ -1,0 +1,13 @@
+For finding Average Waiting Time, we have to find out the waiting time of each process.
+Waiting Time of
+P1 = 0 + (15 - 5) + (24 - 20) = 14ms
+P2 = 5 + (20 - 10) = 15ms
+P3 = 10 + (21 - 15) = 16ms
+Therefore, Average Waiting Time = (14 + 15 + 16) / 3 = 15ms
+Same concept for finding the Turnaround Time.
+Turnaround Time of
+P1 = 14 + 30 = 44ms
+P2 = 15 + 6 = 21ms
+P3 = 16 + 8 = 24ms
+Therefore, Average Turnaround Time = (44 + 21 + 24) / 3 = 29.66ms
+Throughput = (30 + 6 + 8) / 3 = 14.66ms

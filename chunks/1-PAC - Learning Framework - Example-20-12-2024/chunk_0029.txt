@@ -1,0 +1,9 @@
+Clustering
+Clustering is the main type of unsupervised learning. It intends to group
+or organize similar objects together.
+Objects belonging to the same cluster are quite similar to each other
+while objects belonging to different clusters are quite dissimilar
+The objective of clustering to discover the intrinsic grouping of
+unlabeled data and form clusters
+Different measures of similarity can be applied for clustering.
+One of the most commonly adopted similarity measure is distance

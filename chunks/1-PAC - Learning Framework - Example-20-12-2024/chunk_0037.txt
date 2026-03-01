@@ -1,0 +1,15 @@
+Training Data
+• Reinforcement Learning : The agent learns from trial and
+error,
+exploring
+different
+actions
+and
+observing
+consequences (rewards or penalties) of those actions.
+• Supervised Learning: Requires a labeled dataset where
+each example is paired with a corresponding target label.
+The model learns to generalize from the provided examples
+to make predictions on new, unseen data.
+• Unsupervised Learning: Works with unlabeled data, and
+the algorithms try to find inherent structures or patterns

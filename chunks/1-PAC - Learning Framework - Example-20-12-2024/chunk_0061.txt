@@ -1,0 +1,34 @@
+SOLUTION
+• We have the PAC formula
+m≥
+
+εln |H| + ln
+
+• Step 1: Compute ln|H|. Here, |H| = 1000.
+So, ln(|H|) = ln(1000)
+= 2.303 × log10(1000)
+= 2.303 ×
+
+= 6.909
+• Step 2: Compute ln
+
+δ. Here δ= 0.01 = ln
+
+0.01 = ln (100)
+= 2.303 × log10(100)
+= 2.303 × 2
+= 4.606
+ln( x) = loge(x)
+logex= 2.303 × log10( x)
+
+SOLUTION
+• Step 3: Compute m
+Using PAC formula, m≥
+
+εln |H| + ln
+
+• So, m≥
+
+0.05 × 6.909 + 4.606 = (20) × 11.515
+= 230.3
+• As m must be an integer, we have m = 231

@@ -1,0 +1,7 @@
+Turnaround Time of
+P1 = 3 + 5 = 8ms
+P2 = 34 + 24 = 58ms
+P3 = 18 + 16 = 34ms
+P4 = 8 + 10 = 18ms
+P5 = 0 + 3 = 3ms
+Therefore, Average Turnaround Time = (8 + 58 + 34 + 18 + 3) / 5 = 24.2ms

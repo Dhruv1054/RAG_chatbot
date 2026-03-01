@@ -1,0 +1,17 @@
+Q2.How do machines learn?
+• The basic machine learning process can be divided into
+three parts.
+Data input : Past data or information is utilized as a
+basis for future decision-making
+Abstraction : The input data is represented in a
+summarized way
+Generalization : The abstracted representation is
+generalized
+to
+form
+framework
+for
+making
+decisions
+
+Q2.How do machines learn?

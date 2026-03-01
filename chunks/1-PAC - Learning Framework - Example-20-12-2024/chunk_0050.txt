@@ -1,0 +1,15 @@
+Learner
+receives
+samples
+and
+must
+select/output
+generalization function (hypothesis) from a certain class of
+possible functions.
+Goal of PAC : With high probability (probably) , the selected
+function should have low generalization error (approximately
+correct)
+The basic idea behind PAC learning is to quantify the trade-
+off between the number of training examples (samples) a
+learning algorithm requires and the probability that the
+algorithm makes an incorrect prediction on new, unseen data

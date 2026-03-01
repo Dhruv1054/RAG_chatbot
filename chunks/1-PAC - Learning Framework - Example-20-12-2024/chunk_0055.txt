@@ -1,0 +1,6 @@
+learning process involves selecting a hypothesis from this class
+that best fits the training examples.
+Sample Complexity (m): It is the minimum number of training
+examples needed for the learning algorithm to achieve a high
+probability of success. It quantifies the amount of data needed for
+the algorithm to generalize well to unseen instances.

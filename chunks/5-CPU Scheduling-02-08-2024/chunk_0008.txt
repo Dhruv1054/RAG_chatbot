@@ -1,0 +1,4 @@
+P3 = 16 + 8 = 24ms
+Therefore, Average Turnaround Time = (44 + 21 + 24) / 3 = 29.66ms
+Throughput = (30 + 6 + 8) / 3 = 14.66ms
+In 14.66ms, one process executes.

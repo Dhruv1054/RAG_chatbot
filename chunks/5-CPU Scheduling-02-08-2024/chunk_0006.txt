@@ -1,0 +1,8 @@
+Here, we have a total of five processes. Process P1, P2, P3, P4, and P5 takes 5ms, 24ms,
+16ms, 10ms, and 3ms to execute respectively.
+Therefore, Throughput will be same as above problem i.e., 11.6ms for each process.
+
+Round Robin Scheduling Example
+Here is the Round Robin scheduling example with gantt chart. Time Quantum is 5ms.
+
+Round Robin Scheduling

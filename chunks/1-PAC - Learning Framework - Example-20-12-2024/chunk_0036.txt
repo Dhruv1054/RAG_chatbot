@@ -1,0 +1,6 @@
+where the algorithm learns the mapping between input features and
+corresponding target labels. The goal is to make accurate predictions on
+new, unseen data.
+• Unsupervised Learning: Deals with unlabeled data and aims to discover
+hidden patterns, relationships, or structures within the data. It includes
+tasks like clustering, dimensionality reduction, and density estimation.

@@ -1,0 +1,9 @@
+Turnaround Time of process
+P1 = (0 + 3) = 3ms
+P2 = (7 + 6) = 13ms
+P3 = (0 + 4) = 4ms
+P4 = (9 + 5) = 14ms
+P5 = (0 + 2) = 2ms
+Therefore, Average Turnaround Time = (3 + 13 + 4 + 14 + 2) / 5 = 7.2ms
+Troughput = (3 + 6 + 4 + 5 + 2) / 5 = 4ms
+Therefore, each process takes 4ms to execute.

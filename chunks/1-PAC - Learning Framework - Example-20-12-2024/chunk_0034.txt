@@ -1,0 +1,16 @@
+Association Analysis
+
+Reinforcement Learning
+Reinforcement Learning is a machine learning approach
+where an agent learns to make decisions by interacting
+with an environment, receiving feedback in the form of
+rewards or penalties. The goal is for the agent to learn a
+strategy that maximizes cumulative rewards over time.
+
+Reinforcement Learning
+
+Comparison with Supervised and Unsupervised
+• Objective
+• Training Data
+• Feedback Mechanism
+• Use cases

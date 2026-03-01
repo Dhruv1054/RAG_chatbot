@@ -1,0 +1,8 @@
+School of Information Technology & EngineeringAssociation Analysis
+• One more variant of unsupervised learning is association analysis
+• Helpful in boosting the sales pipeline
+• Used to identify the items which are being purchased together
+• From past transaction data in a grocery store, it may be observed that
+most of the customers who have bought item A, have also bought item
+B and item C or at least one of them
+• Identify the casual relationship exist in customer buying behavior

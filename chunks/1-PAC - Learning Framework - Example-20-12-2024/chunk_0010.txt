@@ -1,0 +1,8 @@
+How Machine Learning Solution differs from
+Programmatic Solution ?
+Conventional Programming : After understanding the problem, detailed
+design of the program such as a flow chart or algorithm can be created
+and converted into program using suitable programming languages
+This approach could be difficult for many real-world problems such as
+puzzles , games, complex image recognition applications
+Initially, expert systems have been developed by forming if-then-rules by

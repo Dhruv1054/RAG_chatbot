@@ -1,0 +1,14 @@
+First of all, we have to calculate the waiting time of each process.
+Waiting Time = Starting Time - Arrival Time
+Waiting time of
+P1 = 0
+P2 = 5 - 0 = 5 ms
+P3 = 29 - 0 = 29 ms
+P4 = 45 - 0 = 45 ms
+P5 = 55 - 0 = 55 ms
+Average Waiting Time = Waiting Time of all Processes / Total Number of Process
+Therefore, average waiting time = (0 + 5 + 29 + 45 + 55) / 5 = 25 ms
+Turnaround Time = Waiting time in the ready queue + executing time + waiting time in
+waiting-queue for I/O
+Turnaround time of
+P1 = 0 + 5 + 0 = 5ms

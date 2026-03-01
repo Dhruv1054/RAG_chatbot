@@ -1,0 +1,3 @@
+• Unsupervised Learning: Works with unlabeled data, and
+the algorithms try to find inherent structures or patterns
+within the data without explicit target labels.

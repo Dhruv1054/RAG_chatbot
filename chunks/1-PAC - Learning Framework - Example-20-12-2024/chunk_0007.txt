@@ -1,0 +1,3 @@
+• Training experience ‘E’:
+A database of handwritten words with given
+classifications

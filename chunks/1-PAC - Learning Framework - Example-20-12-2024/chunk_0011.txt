@@ -1,0 +1,3 @@
+Initially, expert systems have been developed by forming if-then-rules by
+the expert knowledge for solving complex problems (Eg. Intelligent
+Medical Diagnosis system : MYCIN)

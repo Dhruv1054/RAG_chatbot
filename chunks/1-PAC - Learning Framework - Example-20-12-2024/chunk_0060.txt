@@ -1,0 +1,16 @@
+COMPUTATION OF SAMPLE COMPLEXITY :
+EXAMPLE
+• Suppose you are given with
+• Hypothesis class: A finite hypothesis class H with |H| =
+
+• Error tolerance ε: ε= 0.05 (5% error tolerance)
+• Confidence level 1 −δ: δ= 0.01 (99% confidence)
+• Find the number of samples required (m) required to
+guarantee that the true error of the learned hypothesis
+h∈His within εwith confidence at least 1 −δ
+
+SOLUTION
+• We have the PAC formula
+m≥
+
+εln |H| + ln

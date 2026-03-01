@@ -1,0 +1,3 @@
+• Domain of the problem: If the problem is in a business critical
+domain with a high rate of data input and need for immediate
+inference, e.g. fraud detection problem in banking domain.

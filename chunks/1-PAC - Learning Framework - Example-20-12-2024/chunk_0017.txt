@@ -1,0 +1,8 @@
+Human Learning Vs.Machine Learning
+As human takes decision based on experience, computers can make model
+based on the extracted patterns in the input data and arrive decision
+The aim of the Machine Learning is to learn a model from the given data
+automatically so that it can predict the unknown data correctly
+The learnt model is equivalent to the human experience
+Human Leanring
+Machine Learning

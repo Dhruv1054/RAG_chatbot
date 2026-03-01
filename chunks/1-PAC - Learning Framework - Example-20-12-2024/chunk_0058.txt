@@ -1,0 +1,21 @@
+Formal Definition
+
+• With high probability, a PAC learning algorithm find a
+hypothesis (i.e.) approximately identical to the hidden
+target concept.
+Training set
+Learning algorithm
+Hypothesis
+h:x{0,1}
+
+PAC - Learning Example
+
+Approximately Correct Hypothesis
+A Hypothesis is said to be approximately correct if the error
+region is less than or equal to ε
+The
+probability
+that
+algorithm
+produces
+approximately correct hypothesis will be

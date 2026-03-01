@@ -1,0 +1,12 @@
+Problem setting
+Given:
+X refers to the set of all possible instances over which target functions are
+defined
+C refers to set of target concepts that our learner might be called upon to
+learn.
+Each target concept c in C corresponds to some subset of X, or equivalently to
+some boolean-valued function c : X {0, 1}.
+If x is a positive example of c, then c(x) = 1; if x is a negative example, c(x) =
+0.
+Determine:
+A hypothesis h in H such that h(x) = c(x) for all x in Training examples for a

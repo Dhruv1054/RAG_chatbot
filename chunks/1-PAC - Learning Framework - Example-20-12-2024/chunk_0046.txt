@@ -1,0 +1,15 @@
+PAC (Probably Approximately Correct) Learning : Problem Setting
+Few thoughts/questions
+Is it possible to identify classes of learning problems that are
+inherently
+difficult
+or
+easy,
+independent
+of
+algorithm?
+Can one characterize the number of training examples necessary
+or sufficient to assure successful learning?
+Can one characterize the number of mistakes that a learner will
+make before learning the target function?
+PAC (Probably Approximately Correct) learning is a theoretical

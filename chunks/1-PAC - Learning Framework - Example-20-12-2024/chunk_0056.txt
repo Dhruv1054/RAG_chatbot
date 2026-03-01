@@ -1,0 +1,11 @@
+Parameters in PAC learning
+Approximation Error parameter (ε)
+• It measures how well the hypothesis approximates the true concept.
+• It represents the acceptable level of deviation between the predicted
+output of the hypothesis and the true output.
+• Gives the upper bound on the error in accuracy
+• Accuracy : 1- ε
+Probability of Failure (δ)
+• It quantifies the level of confidence that the hypothesis generalizes
+well to unseen data.
+• Confidence : 1-δ

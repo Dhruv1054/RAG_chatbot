@@ -1,0 +1,3 @@
+• Unsupervised Learning: There is no explicit feedback in
+the form of labels. The algorithms aim to discover intrinsic
+patterns or relationships within the data.

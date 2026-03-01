@@ -1,0 +1,11 @@
+Q3. Which problems are of Well-Posed Learning
+nature ?
+• Checkers Learning Problem
+• Task ‘T’ – Playing Checkers
+• Performance measure ‘P’ - Percent of games won against opponents
+• Training experience ‘E’ - Playing practice games against itself
+• Handwriting recognition learning problem
+• Task ‘T’ – Recognizing and classifying hand-written words within images
+• Performance measure ‘P’ : Percentage of words correctly classified
+• Training experience ‘E’:
+A database of handwritten words with given

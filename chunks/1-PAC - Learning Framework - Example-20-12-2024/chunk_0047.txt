@@ -1,0 +1,5 @@
+make before learning the target function?
+PAC (Probably Approximately Correct) learning is a theoretical
+framework for mathematical analysis of
+machine learning
+algorithms - Provides answer for these question

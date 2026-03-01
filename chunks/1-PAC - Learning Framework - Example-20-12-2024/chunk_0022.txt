@@ -1,0 +1,10 @@
+Choice of the Model
+• Choice of the Model is based on
+• The type of problem to be solved: Whether the problem is
+related to forecast or prediction, analysis of trend, understanding
+the different segments or groups of objects, etc.
+• Nature of the input data: How exhaustive the input data is,
+whether the data has no values for many fields, the data types,
+etc.
+• Domain of the problem: If the problem is in a business critical
+domain with a high rate of data input and need for immediate

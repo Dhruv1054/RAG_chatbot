@@ -1,0 +1,9 @@
+What is Learning ?
+
+“Learning denotes changes in a system that ... enable a
+system to do the same task ... more efficiently the next
+time.” - Herbert Simon
+“Learning is constructing or modifying representations of
+what is being experienced.” - Ryszard Michalski
+“Learning is making useful changes in our minds.” -
+Marvin Minsky

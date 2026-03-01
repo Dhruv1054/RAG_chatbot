@@ -1,0 +1,6 @@
+rate.
+Answers the following questions
+"Under what conditions is successful learning possible and
+impossible?"
+"Under what conditions is a particular learning algorithm assured
+of learning successfully?”

@@ -1,0 +1,3 @@
+• Unsupervised Learning: Applied in tasks like clustering,
+anomaly detection, and dimensionality reduction, where the
+goal is to uncover hidden structures in the data.

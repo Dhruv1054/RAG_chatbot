@@ -1,0 +1,10 @@
+PAC (Probably Approximately Correct) Learning
+It was developed by Leslie Valiant in 1984.
+It is part of a field called Computational Learning Theory.
+It defines a mathematical relationship between the number of
+training samples, the error rate, and the probability that the
+available training data are large enough to attain the desired error
+rate.
+Answers the following questions
+"Under what conditions is successful learning possible and
+impossible?"

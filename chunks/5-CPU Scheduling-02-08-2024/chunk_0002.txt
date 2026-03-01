@@ -1,0 +1,10 @@
+waiting-queue for I/O
+Turnaround time of
+P1 = 0 + 5 + 0 = 5ms
+P2 = 5 + 24 + 0 = 29ms
+P3 = 29 + 16 + 0 = 45ms
+P4 = 45 + 10 + 0 = 55ms
+P5 = 55 + 3 + 0 = 58ms
+Total Turnaround Time = (5 + 29 + 45 + 55 + 58)ms = 192ms
+Average Turnaround Time = (Total Turnaround Time / Total Number of Process) = (192 /
+5)ms = 38.4ms

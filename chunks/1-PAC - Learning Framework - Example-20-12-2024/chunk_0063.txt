@@ -1,0 +1,7 @@
+• Hypothesis class:
+• Since h maps each input pair X1, X2 to a value of Y =
+0,1 independently, the total number of hypothesis is
+26 = 64
+• The 64 hypotheses maps all possible mappings from the
+input space to the output space.
+Computing the Number of Hypothesis : Example

@@ -1,0 +1,11 @@
+Q3. Which problems are of Well-Posed Learning
+nature ?
+• Robot Driving Learning Problem
+Task ‘T’ – Driving on public four-lane highways using vision
+sensors
+Performance measure ‘P’: average distance traveled before an
+error (as judged by human overseer)
+Training experience ‘E’: a sequence of images and steering
+commands recorded while observing a human drive
+
+Why “Machine Learning?”
